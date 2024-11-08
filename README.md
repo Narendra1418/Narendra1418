@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deshmukh Narendra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="250" src=["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXE9gqS0uUrd7GTDicD2nV_VZt63LibxIX8Q&s](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)>
+<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendra1418&label=Profile%20views&color=0e75b6&style=flat" alt="narendra1418" /> </p>
 
