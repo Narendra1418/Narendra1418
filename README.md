@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narendra1418&label=Profile%20views&color=0e75b6&style=flat" alt="narendra1418" /> </p>
 
 - 📫 How to reach me **dnarendra4510@gmail.com**
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
