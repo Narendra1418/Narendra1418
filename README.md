@@ -14,7 +14,7 @@
 🎓 Final-year **B.Tech Computer Science Engineering** student  
 💻 Passionate **Full Stack Developer** with hands-on experience in **Java, MERN, Next.js, and DevOps**  
 📦 Strong interest in **scalable systems, backend architecture, and real-world problem solving**  
-🎯 Actively preparing for **off-campus software engineering roles**
+🎯 Actively preparing for ** Software engineering roles**
 
 ---
 
