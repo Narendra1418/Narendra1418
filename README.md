@@ -96,88 +96,56 @@
 🔹 Built a full-stack trading and investment management platform enabling users to analyze markets, manage portfolios, and perform virtual trading in a real-world–like environment.
 
 🔹 Implemented secure authentication and user management:
-
-User registration and login
-
-Protected routes and session handling
-
-User-specific portfolios, watchlists, and transaction data
+- User registration and login
+- Protected routes and session handling
+- User-specific portfolios, watchlists, and transaction data
 
 🔹 Developed a market dashboard (MVP) featuring:
-
-Live and historical market data visualization
-
-Interactive charts using Recharts
-
-Real-time portfolio summary and performance metrics
+- Live and historical market data visualization
+- Interactive charts using Recharts
+- Real-time portfolio summary and performance metrics
 
 🔹 Designed and implemented core trading functionalities:
-
-Watchlist management for tracking selected assets
-
-Virtual buy/sell trading engine
-
-Automatic calculation of holdings, profit & loss (P&L), and portfolio value
-
-Detailed transaction history with timestamps and trade metadata
+- Watchlist management for tracking selected assets
+- Virtual buy/sell trading engine
+- Automatic calculation of holdings, profit & loss (P&L), and portfolio value
+- Detailed transaction history with timestamps and trade metadata
 
 🔹 Integrated financial insights and utilities:
-
-Market news feed for informed decision-making
-
-Mutual fund NAV lookup and SIP planning tools
-
-CSV export of transactions and portfolio reports
+- Market news feed for informed decision-making
+- Mutual fund NAV lookup and SIP planning tools
+- CSV export of transactions and portfolio reports
 
 🔹 Enhanced user experience with v1 feature add-ons:
-
-Price alerts and notifications
-
-Dark mode support using Tailwind
-
-Optimized global state management with Zustand
+- Price alerts and notifications
+- Dark mode support using Tailwind
+- Optimized global state management with Zustand
 
 🔹 Implemented advanced AI-driven features:
-
-AI-based investment recommendations
-
-Price prediction models using ML (TensorFlow/PyTorch)
-
-Portfolio optimization based on risk and asset allocation strategies
+- AI-based investment recommendations
+- Price prediction models using ML (TensorFlow/PyTorch)
+- Portfolio optimization based on risk and asset allocation strategies
 
 🔹 Built a scalable backend architecture:
-
-RESTful APIs using Node.js/Express or NestJS with TypeScript
-
-PostgreSQL for relational data and Redis for caching
-
-Efficient query optimization for high-frequency data access
+- RESTful APIs using Node.js/Express or NestJS with TypeScript
+- PostgreSQL for relational data and Redis for caching
+- Efficient query optimization for high-frequency data access
 
 🔹 Enabled real-time market updates:
-
-WebSocket-based live price feeds
-
-Low-latency updates for charts and dashboards
+- WebSocket-based live price feeds
+- Low-latency updates for charts and dashboards
 
 🔹 Containerized the application using Docker:
-
-Isolated frontend, backend, ML service, and database containers
-
-Consistent development and deployment environments
+- Isolated frontend, backend, ML service, and database containers
+- Consistent development and deployment environments
 
 🔹 Implemented full CI/CD pipeline:
-
-Automated build, test, and deployment using GitHub Actions
-
-Cloud deployment on AWS/GCP/Render
-
-Environment-based configuration for scalability and reliability
+- Automated build, test, and deployment using GitHub Actions
+- Cloud deployment on AWS/GCP/Render
+- Environment-based configuration for scalability and reliability
 
 📌 SmartTradeHub demonstrates strong expertise in full-stack development, system design, financial domain modeling, real-time systems, AI/ML integration, and DevOps practices.
 
-🔥 Pro Resume Tip
-
-If y
 ---
 
 ### 🌐 MERN Stack Project 1 – Full Stack Web Application  
@@ -212,7 +180,7 @@ If y
 ## 📫 Connect With Me
 
 - 💼 **GitHub:** [github.com/Narendra1418](https://github.com/Narendra1418)  
-- 📧 **Email:** *(Add Your Email Here)*  
+- 📧 **Email:** *(dnarendra4510@gmail.com)*  
 - 💼 **LinkedIn:** *(Add LinkedIn Link Here)*  
 
 ---
