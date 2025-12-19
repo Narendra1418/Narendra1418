@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Narendra1418">
-    <img src="https://komarev.com/ghpvc/?username=Narendra1418&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Narendra1418&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
@@ -11,18 +11,18 @@
 
 ## 🚀 About Me
 
-🎓 Final-year **B.Tech Computer Science Engineering** student  
-💻 Passionate **Full Stack Developer** with hands-on experience in **Java, MERN, Next.js, and DevOps**  
-📦 Strong interest in **scalable systems, backend architecture, and real-world problem solving**  
-🎯 Actively preparing for ** Software engineering roles**
+🎓 Final-Year **B.Tech Computer Science Engineering** Student  
+💻 Passionate **Full Stack Developer** With Hands-On Experience In **Java, MERN, Next.js, And DevOps**  
+📦 Strong Interest In **Scalable Systems, Backend Architecture, And Real-World Problem Solving**  
+🎯 Actively Preparing For **Software Engineering Roles**
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology (B.Tech) – Computer Science Engineering**  
+**Bachelor Of Technology (B.Tech) – Computer Science Engineering**  
 📍 India  
-📊 CGPA: **6.0 / 10**  
+📊 CGPA: **6.0 / 10**
 
 ---
 
@@ -58,70 +58,72 @@
 ## 📂 Featured Projects
 
 ### 🛡️ Online Proctoring & AI-Based Recruitment System  
-**Tech Stack:** Java, Spring Boot, MySQL, REST APIs, JWT, NLP  
+**Tech Stack:** Java, Spring Boot, MySQL, REST APIs, JWT, NLP
 
-🔹 Built an **end-to-end recruitment automation platform** that simulates real-world hiring workflows including:
-- Aptitude tests
-- Coding assessments
-- Resume screening
-- AI-driven interview evaluation
+🔹 Built An **End-To-End Recruitment Automation Platform** That Simulates Real-World Hiring Workflows Including:
+- Aptitude Tests  
+- Coding Assessments  
+- Resume Screening  
+- AI-Driven Interview Evaluation  
 
-🔹 Implemented **secure online proctoring mechanisms**:
-- Webcam monitoring  
-- Tab-switch & activity detection  
-- Automated test submission  
-- Detailed audit logging to prevent malpractice  
+🔹 Implemented **Secure Online Proctoring Mechanisms**:
+- Webcam Monitoring  
+- Tab-Switch & Activity Detection  
+- Automated Test Submission  
+- Detailed Audit Logging To Prevent Malpractice  
 
-🔹 Designed an **AI-based evaluation pipeline**:
-- Resume parsing using NLP  
-- Skill-based interview question generation  
-- Candidate response evaluation using similarity scoring algorithms  
+🔹 Designed An **AI-Based Evaluation Pipeline**:
+- Resume Parsing Using NLP  
+- Skill-Based Interview Question Generation  
+- Candidate Response Evaluation Using Similarity Scoring Algorithms  
 
-🔹 Developed **role-based access control (RBAC)**:
-- Admin, Company, Candidate roles  
-- Secure authentication using **JWT**  
+🔹 Developed **Role-Based Access Control (RBAC)**:
+- Admin, Company, Candidate Roles  
+- Secure Authentication Using **JWT**
 
-🔹 Enabled **subscription-based company onboarding**:
-- Bulk candidate management  
-- Real-time test progress tracking  
-- Automated shortlisting with performance analytics  
+🔹 Enabled **Subscription-Based Company Onboarding**:
+- Bulk Candidate Management  
+- Real-Time Test Progress Tracking  
+- Automated Shortlisting With Performance Analytics  
 
-🔹 Designed scalable **RESTful APIs** using clean architecture principles and optimized database queries to support concurrent users.
+🔹 Designed Scalable **RESTful APIs** Using Clean Architecture Principles And Optimized Database Queries To Support Concurrent Users.
 
 ---
 
 ### 📈 SmartTradeHub – Trading & Investment Platform  
-**Tech Stack:** Next.js, Node.js, MongoDB, Docker  
+**Tech Stack:** Next.js, Node.js, MongoDB, Docker
 
-🔹 Developed a modern web platform for **simulated trading & investment tracking**  
-🔹 Features include:
-- Live market data visualization  
-- Virtual portfolio management  
-- Buy/Sell simulation with P&L tracking  
-- Market news & analytics dashboard  
+🔹 Developed A Modern Web Platform For **Simulated Trading & Investment Tracking**
 
-🔹 Implemented **Dockerized services** for consistent development & deployment  
-🔹 Built scalable backend APIs and responsive frontend using **Next.js**
+🔹 Key Features Include:
+- Live Market Data Visualization  
+- Virtual Portfolio Management  
+- Buy/Sell Simulation With P&L Tracking  
+- Market News & Analytics Dashboard  
+
+🔹 Implemented **Dockerized Services** For Consistent Development & Deployment  
+
+🔹 Built Scalable Backend APIs And A Responsive Frontend Using **Next.js**
 
 ---
 
 ### 🌐 MERN Stack Project 1 – Full Stack Web Application  
-**Tech Stack:** MongoDB, Express, React, Node.js  
+**Tech Stack:** MongoDB, Express, React, Node.js
 
-🔹 Built a complete **CRUD-based MERN application**  
-🔹 Implemented authentication & authorization  
-🔹 Integrated REST APIs with clean separation of concerns  
-🔹 Focused on reusable components and performance optimization  
+🔹 Built A Complete **CRUD-Based MERN Application**  
+🔹 Implemented Authentication & Authorization  
+🔹 Integrated REST APIs With Clean Separation Of Concerns  
+🔹 Focused On Reusable Components And Performance Optimization  
 
 ---
 
 ### 🌐 MERN Stack Project 2 – Real-World Web Application  
-**Tech Stack:** MongoDB, Express, React, Node.js  
+**Tech Stack:** MongoDB, Express, React, Node.js
 
-🔹 Developed a real-world problem-solving application  
-🔹 Implemented secure user authentication  
-🔹 Optimized backend performance & API response time  
-🔹 Followed industry-level folder structure and best practices  
+🔹 Developed A Real-World Problem-Solving Application  
+🔹 Implemented Secure User Authentication  
+🔹 Optimized Backend Performance & API Response Time  
+🔹 Followed Industry-Level Folder Structure And Best Practices  
 
 ---
 
@@ -136,12 +138,10 @@
 
 ## 📫 Connect With Me
 
-- 💼 **GitHub:** [github.com/Narendra1418](https://github.com/Narendra1418)
-- 📧 **Email:** *(Add your email here)*
-- 💼 **LinkedIn:** *(Add LinkedIn link here)*
+- 💼 **GitHub:** [github.com/Narendra1418](https://github.com/Narendra1418)  
+- 📧 **Email:** *(Add Your Email Here)*  
+- 💼 **LinkedIn:** *(Add LinkedIn Link Here)*  
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*  
-
----
+⭐ *If You Like My Work, Consider Giving A Star To My Repositories!*
